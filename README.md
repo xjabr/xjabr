@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Gabriele Lanzafame</h1>
 
----
-
 <details open>
 <summary>🤝 <b>Connect with me<b></summary>
 
@@ -34,9 +32,9 @@
 ### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933.svg?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-282C34.svg?style=for-the-badge&logo=django)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
