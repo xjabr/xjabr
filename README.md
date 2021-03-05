@@ -59,4 +59,5 @@
  <summary>📊 <b>GitHub stats</b>: </summary>
  <br>
  <img src="https://github-readme-stats.vercel.app/api?username=xjabr&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjabr&langs_count=8&layout=compact&theme=tokyonight" />
 </design>
