@@ -49,6 +49,7 @@
 ### Cloud and Web Services
 ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?style=for-the-badge&logo=Amazon+AWS&logoColor=ffffff)
 ![GCLOUD](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google+Cloud&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=ffffff)
 
 </details>
 
