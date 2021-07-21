@@ -10,9 +10,6 @@
 [<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriele.lanzafame03@gmail.com"/>](mailto:gabriele.lanzafame03@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriele-lanzafame/)
 [<img src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lanzafamegabriele_/)
-[<img src = "https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/_xjabr/)
-<!--- [![Visits Badge](https://badges.pufler.dev/visits/tkd-alex/tkd-alex?style=for-the-badge&color=blue)](https://github.com/tkd-alex/tkd-alex) -->
-
 </p>
 
 </details>
