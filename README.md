@@ -42,7 +42,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-282C34.svg?style=for-the-badge&logo=react&logoColor=ffffff)
-![Nextjs](https://img.shields.io/badge/-React-282C34.svg?style=for-the-badge&logo=react&logoColor=ffffff)
+![Nextjs](https://img.shields.io/badge/-next.js-282C34.svg?style=for-the-badge&logo=next&logoColor=ffffff)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
