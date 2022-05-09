@@ -20,7 +20,7 @@
 <summary>💻 <b>My knowledges</b>: </summary>
 
  
-### Blockchain
+### Web3
 ![Solidity](https://img.shields.io/badge/-Solidity-1a1a1a.svg?style=for-the-badge&logo=solidity&logoColor=ffffff)
 ![Moralis](https://img.shields.io/badge/-Moralis-1a1a1a.svg?style=for-the-badge&logo=moralis&logoColor=ffffff) 
 ![Hardhat](https://img.shields.io/badge/-hardhat-1a1a1a.svg?style=for-the-badge&logo=hardhat&logoColor=111)
