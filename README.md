@@ -24,6 +24,7 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-1a1a1a.svg?style=for-the-badge&logo=solidity&logoColor=ffffff)
 ![Moralis](https://img.shields.io/badge/-Moralis-1a1a1a.svg?style=for-the-badge&logo=moralis&logoColor=ffffff) 
 ![Hardhat](https://img.shields.io/badge/-hardhat-1a1a1a.svg?style=for-the-badge&logo=hardhat&logoColor=111)
+![Ethers.js](https://img.shields.io/badge/-ethers.js-1a1a1a.svg?style=for-the-badge&logo=hardhat&logoColor=111)
 ![IPFS](https://img.shields.io/badge/-IPFS-1a1a1a.svg?style=for-the-badge&logo=ipfs&logoColor=ffffff)
  
 ### Backend
