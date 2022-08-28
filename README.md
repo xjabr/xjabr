@@ -4,9 +4,13 @@
 <summary>🤝 <b>Connect with me<b></summary>
 
 <p align = "center">
+
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://gabrielelanzafame.herokuapp.com/)
 [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriele-lanzafame/)
 </p>
+
+</details>
+
 
 </details>
 
