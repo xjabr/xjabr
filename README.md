@@ -66,6 +66,6 @@
 <details open>
  <summary>📊 <b>GitHub stats</b>: </summary>
  <br>
- <img src="https://raw.githubusercontent.com/leobartowski/github-stats-transparent/output/generated/overview.svg" />
- <img src="https://raw.githubusercontent.com/leobartowski/github-stats-transparent/output/generated/languages.svg" />
+ <img src="https://raw.githubusercontent.com/xjabr/github-stats-transparent/output/generated/overview.svg" />
+ <img src="https://raw.githubusercontent.com/xjabr/github-stats-transparent/output/generated/languages.svg" />
 </design>
