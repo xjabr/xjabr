@@ -50,7 +50,6 @@
 </details>
 
 ---
-
 <details open>
  <summary>📊 <b>GitHub stats</b>: </summary>
  <br>
