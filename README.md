@@ -19,7 +19,6 @@
 <details open>
 <summary>💻 <b>My knowledges</b>: </summary>
 
- 
 ### Web3
 ![Solidity](https://img.shields.io/badge/-Solidity-1a1a1a.svg?style=for-the-badge&logo=solidity&logoColor=ffffff)
 ![Moralis](https://img.shields.io/badge/-Moralis-1a1a1a.svg?style=for-the-badge&logo=moralis&logoColor=ffffff) 
@@ -29,7 +28,6 @@
  
 ### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933.svg?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-282C34.svg?style=for-the-badge&logo=django)
@@ -49,16 +47,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57.svg?style=for-the-badge&logo=SQlite&logoColor=ffffff)
-
-### Utilis
-![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=ffffff)
-
-### DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?style=for-the-badge&logo=Amazon+AWS&logoColor=ffffff)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google+Cloud&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=ffffff)
-
 </details>
 
 ---
